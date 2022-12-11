@@ -4,12 +4,14 @@
 color: white;
 background: black;
 border-radius:5px;
+border: none;
 
 }
 #btn:hover{
     background: yellow;
     color: black;
     border-radius: 30px;
+    border: none;
 }
 /* Make a Submit button with black background & white as font color & 5px border radius which on hover changes to yellow as background & black as font color with 30px as border radius.
 
